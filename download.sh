@@ -1,3 +1,2 @@
-
-RUN google-chrome https://www.dropbox.com/sh/5gel5pvjm6wh8xn/AABPHDa7t4U8v7X2Jb6EM9Mia?dl=0 &&  \ 
-    google-chrome --new-window https://www.dropbox.com/sh/5gel5pvjm6wh8xn/AABPHDa7t4U8v7X2Jb6EM9Mia?dl=0 &&  \ 
+RUN google-chrome --new-window https://drive.google.com/file/d/1AdCAw6NiVh2lg-FVPgSw6jdtMDTxHpUZ/view 
+RUN google-chrome --new-window https://www.dropbox.com/sh/5gel5pvjm6wh8xn/AABPHDa7t4U8v7X2Jb6EM9Mia?dl=0 
